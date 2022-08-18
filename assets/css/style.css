@@ -14801,7 +14801,7 @@ div#featured-project-carousel {
   overflow: hidden;
 }
 .progress-charts + .progress-charts {
-  margin-top: 30px;
+  /* margin-top: 30px; */
 }
 .progress-charts h6.heading {
   margin-bottom: 15px;
